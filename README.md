@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George Mintah
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning ReactJS 
 - 💞️ I’m looking to collaborate on App creation projects
 - 📫 How to reach me george.mintah@amalitech.com
 
