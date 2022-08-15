@@ -1,6 +1,6 @@
-- 👋 Hi, I’m George Mintah
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning ReactJS 
+- 👋 Hi, I’m George Ntim Mintah
+- 👀 I’m FrontEnd developer
+- 🌱 I’m currently working on projects with VueJs and Laravel 
 - 💞️ I’m looking to collaborate on App creation projects
 - 📫 How to reach me george.mintah@amalitech.com
 
